@@ -13,7 +13,7 @@
 ### Desktop
 
 <p align="center">
-  <img alt="Pricing Table Desktop" src="assets/web_version.gif" width="90%">
+  <img alt="Pricing Table Desktop" src="assets/web_version.gif" width="100%">
 </p>
 
 <br>

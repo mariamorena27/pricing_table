@@ -41,7 +41,7 @@ Desafio criado pela Rocketseat para desenvolver uma página com uma tabela com a
 
 ➡️ &nbsp;[Acesso ao desafio](https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32)
 <br>
-➡️ &nbsp;[Acesso ao projeto](https://mariamorena27.github.io/princing_table/)
+➡️ &nbsp;[Acesso ao projeto](https://mariamorena27.github.io/pricing_table/)
 
 ---
 

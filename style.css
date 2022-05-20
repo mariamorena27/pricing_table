@@ -199,6 +199,10 @@ hr {
 }
 
 @media screen and (min-width:721px) and (max-width: 1100px) {
+  body {
+    overflow-x: hidden;
+  }
+  
   section.cards {
     flex-wrap: wrap;
     justify-content: center;    
@@ -206,6 +210,10 @@ hr {
 }
 
 @media screen and (min-width:341px) and (max-width: 720px) {
+  body {
+    overflow-x: hidden;
+  }
+
   .container header {
     padding: 1rem;
   }
